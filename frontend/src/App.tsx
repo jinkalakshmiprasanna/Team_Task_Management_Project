@@ -11,6 +11,7 @@ import Dashboard from './pages/Dashboard';
 import Projects from './pages/Projects';
 import Tasks from "./pages/Task";
 import PrivateRoute from './components/PrivateRoute';
+import { type JSX } from 'react';
 
 import './App.css';
 
