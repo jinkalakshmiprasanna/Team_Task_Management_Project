@@ -1,4 +1,3 @@
- import React, { type JSX } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -11,7 +10,7 @@ import Dashboard from './pages/Dashboard';
 import Projects from './pages/Projects';
 import Tasks from "./pages/Task";
 import PrivateRoute from './components/PrivateRoute';
-import { type JSX } from 'react';
+import  type {JSX } from 'react';
 
 import './App.css';
 
